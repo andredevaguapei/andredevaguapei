@@ -1,6 +1,6 @@
 <div align="center">
 
-# ANDRE MARQUES
+# ANDRÊ MARQUES
 
 **`Technology · Code · Data`**
 
